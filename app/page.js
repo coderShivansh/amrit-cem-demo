@@ -5,7 +5,7 @@ export const metadata = {
 };
 export default function Home() {
   return (
-    <main> {/* padding-top to avoid overlapping with navbar */}
+    <main> 
    
       <HomeDashboard/>
 
